@@ -804,7 +804,7 @@ body.mainApp {
 /* VARIABLES */
 /**********************************************************/
 .ma-logo {
-  background-image: url("../../assets/images/logo.svg");
+  background-image: url("../assets/images/logo.svg");
   background-repeat: no-repeat;
   height: 35px;
   width: 32px;
