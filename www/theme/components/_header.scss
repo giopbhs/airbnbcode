@@ -180,3 +180,12 @@ $header-lg-nav-list-btn-hover-border-bottom: 2px solid #767676;
         width: 100%;
     }
 }
+
+/// Welcome Banner
+
+
+.section-banner-background_img {
+    background: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)),rgba(0,0,0,0.55) url(http://www.pbhs-sites.com/wp-content/themes/sfdentalgroup/_photos/photo2.jpg);
+    background-size: cover;
+    color: #fff;
+}
