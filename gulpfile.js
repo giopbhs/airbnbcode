@@ -125,3 +125,5 @@ gulp.task('watch', function() {
 gulp.task('build-vendor', ['bowerJS', 'vendorCSS']);
 /* LAUNCH LOCALSERVER */
 gulp.task('start', ['sass', 'sass-min', 'html', 'webserver', 'build-vendor', 'watch']);
+
+gulp.task('default', ['sass', 'sass-min', 'html', 'webserver', 'build-vendor', 'watch']);
